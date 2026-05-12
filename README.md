@@ -18,7 +18,8 @@ Big anime fan. Bass player 🎸.
 ---
 
 ### | Technical Skills |
-- C++
+- C++ (Basic)
+- Python (Intermediate)
 - Linux (CLI, basic server configuration)
 - Networking fundamentals (TCP/IP, sockets)
 - Git
@@ -29,8 +30,8 @@ Big anime fan. Bass player 🎸.
 ### | 🌍 Languages |
 - Spanish — Native
 - English — Advanced (C1/C2)
-- French — Advanced
-- German — Basic
+- French — Advanced (B2+)
+- German — Basic (A2)
 
 I enjoy learning languages and collaborating in international and multicultural environments.
 
