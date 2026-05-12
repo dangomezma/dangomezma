@@ -44,5 +44,5 @@ I enjoy learning languages and collaborating in international and multicultural 
 
 ### 📫 Let’s Connect
 Feel free to reach out on Instagram or via Email:
-- 📸 [@euer.alek](https://instagram.com/euer.alek)
+- 📸 [@your.alek](https://instagram.com/your.alek)
 - 📧 Email: danielgomez8742@hotmail.com 
