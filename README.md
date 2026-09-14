@@ -1,3 +1,5 @@
+<div align="center">
+
 # 🦇🦇♥️ ALEKK ♥️🦇🦇
 
 ![](https://komarev.com/ghpvc/?username=dangomezma&color=blueviolet&style=for-the-badge&label=Profile+Views)
@@ -5,6 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A020F0&center=true&vCenter=true&width=435&lines=Backend+%26+Systems+Engineer;Bass+Player+%F0%9F%8E%B8;Anime+Nerd+%F0%9F%A6%87)](https://git.io/typing-svg)
 
 ### | About Me |
+
 Systems Engineering student focused on backend systems, networking, and low-level programming.
 
 I enjoy understanding how systems work and building efficient solutions from scratch.
@@ -16,6 +19,7 @@ Big anime fan. Bass player 🎸.
 ---
 
 ### | Past Projects |
+
 - [Neuropathological Diagnosis Support System](https://github.com/dangomezma/Neuropathological-Diagnosis-Support-System-) — Takes a raw symptoms report as input and compares Cortical (e.g., Alzheimer's) vs Subcortical (e.g., Parkinson's) pathways via symptom extraction, domain classification, and weighted scoring.
 - TCP Server in C++ — Single-client server with indexed data lookup using hash tables and optimized memory usage.
 - Morse Decoder (ESP32) — Real-time Morse interpretation using hardware buttons, buzzer feedback, and TFT display output.
@@ -25,7 +29,7 @@ Big anime fan. Bass player 🎸.
 
 ### | Technical Skills |
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,py,linux,git,bash" />
 </p>
 
@@ -39,6 +43,7 @@ Big anime fan. Bass player 🎸.
 ---
 
 ### | 🌍 Languages |
+
 - Spanish — Native
 - English — Advanced (C1/C2)
 - French — Advanced (B2+)
@@ -49,6 +54,7 @@ I enjoy learning languages and collaborating in international and multicultural 
 ---
 
 ### | 🚧 Currently Exploring |
+
 - Software Engineering principles & architecture
 - AI applications in medicine
 - Information systems
@@ -56,14 +62,16 @@ I enjoy learning languages and collaborating in international and multicultural 
 ---
 
 ### | 📊 GitHub Stats |
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dangomezma&theme=radical&hide_border=true" height="165" alt="Dan's GitHub Streak" />
-</div>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dangomezma&theme=radical&hide_border=true" height="165" alt="Dan's GitHub Streak" />
 
 ### 📫 Let's Connect
+
 Feel free to reach out on Instagram or via Email:
 
-<p align="left">
+<p align="center">
   <a href="https://instagram.com/your.alek"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="mailto:danielgomez8742@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+
+</div>
