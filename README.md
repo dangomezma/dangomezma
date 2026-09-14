@@ -56,12 +56,10 @@ I enjoy learning languages and collaborating in international and multicultural 
 ---
 
 ### | 📊 GitHub Stats |
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dangomezma&show_icons=true&theme=radical&hide_border=true" height="165" />
-  <img src="https://streak-stats.demolab.com/?user=dangomezma&theme=radical&hide_border=true" height="165" />
-</p>
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dangomezma&show_icons=true&theme=radical&hide_border=true" height="165" alt="Dan's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dangomezma&theme=radical&hide_border=true" height="165" alt="Dan's GitHub Streak" />
+</div>
 
 ### 📫 Let's Connect
 Feel free to reach out on Instagram or via Email:
