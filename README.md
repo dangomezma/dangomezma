@@ -58,9 +58,9 @@ I enjoy learning languages and collaborating in international and multicultural 
 ### | 📊 GitHub Stats |
 
 <p align="left">
-  <img src="github-readme-stats-git-master-rstaib.vercel.app" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dangomezma&show_icons=true&theme=radical&hide_border=true" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=dangomezma&theme=radical&hide_border=true" height="165" />
 </p>
-
 ---
 
 ### 📫 Let's Connect
